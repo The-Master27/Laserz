@@ -1,0 +1,46 @@
+body{
+    background-color: #fff04d;
+    margin: 0;
+}
+#title{
+    font-size: 50px;
+    font-family: 'Trade Winds';
+}
+#subtitle{
+    font-size: 30px;
+}
+#heading{
+    background-color: #0974d3;
+    height: 250px;
+    margin-top: 0px;
+    padding-left: 100px;
+    
+}
+#slogan{
+    font-size: 25px;
+    position: relative;
+    left: 500px;
+}
+#coin1{
+    float: right;
+    margin-top: 0px;
+    padding-top: 0px;
+    padding-right: 150px;
+    position: relative;
+    bottom: 55px;
+    right: 150px;
+    
+}
+#text{
+    font-size:20;
+    text-align: center;
+}
+#slogan2{
+    font-size: 25px;
+    position: relative;
+    left: 350px;
+}
+form{
+    font-size: 28px;
+    text-align: center;
+}
